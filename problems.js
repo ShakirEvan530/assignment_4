@@ -20,7 +20,7 @@ function checkName(str) {
     lw == "o" ||
     lw == "u" ||
     lw == "w" ||
-    lw == "a" ||
+    lw == "A" ||
     lw == "Y" ||
     lw == "I" ||
     lw == "E" ||
